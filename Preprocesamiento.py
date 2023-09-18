@@ -16,3 +16,18 @@
 
 # MAGIC %md
 # MAGIC Entrenamiento
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC Pruebas de rendimiento
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC Prueba de resultados
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC Ajustes al modelo
